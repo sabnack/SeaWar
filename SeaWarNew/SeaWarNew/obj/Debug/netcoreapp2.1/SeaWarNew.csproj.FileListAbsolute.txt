@@ -1,0 +1,11 @@
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\bin\Debug\netcoreapp2.1\SeaWarNew.deps.json
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\bin\Debug\netcoreapp2.1\SeaWarNew.runtimeconfig.json
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\bin\Debug\netcoreapp2.1\SeaWarNew.runtimeconfig.dev.json
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\bin\Debug\netcoreapp2.1\SeaWarNew.dll
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\bin\Debug\netcoreapp2.1\SeaWarNew.pdb
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\obj\Debug\netcoreapp2.1\SeaWarNew.csprojAssemblyReference.cache
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\obj\Debug\netcoreapp2.1\SeaWarNew.csproj.CoreCompileInputs.cache
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\obj\Debug\netcoreapp2.1\SeaWarNew.AssemblyInfoInputs.cache
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\obj\Debug\netcoreapp2.1\SeaWarNew.AssemblyInfo.cs
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\obj\Debug\netcoreapp2.1\SeaWarNew.dll
+d:\OneDrive\C#\Lessons\SeaWarNew\SeaWarNew\obj\Debug\netcoreapp2.1\SeaWarNew.pdb
